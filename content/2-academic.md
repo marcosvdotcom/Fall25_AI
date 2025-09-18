@@ -36,4 +36,4 @@ One notable strength of current generative AI is the ability to explain or summa
 1. Now ask it about something you know nothing about, how would you go about verifying the information of the topic you don’t know? Spoiler alert, it is hard to do! 
 <br>
 <br>
-{% include question.html header="AI Strategies" text="What's your strategy for how you can use AI for what it's good at while minimizing the impacts of its weak points." solution="There's no one right answer, but your strategy should use AI for what it's good at (general searching and concept formation) and avoiding relying on it for areas where it struggles (factual data replication, citations, writing content.)." %}
+{% include question.html header="AI Strategies" text="What's your strategy for how you can use AI for what it's good at while minimizing the impacts of its weak points?" solution="There's no one right answer, but your strategy should use AI for what it's good at (general searching and concept formation) and avoiding relying on it for areas where it struggles (factual data replication, citations, writing content.)." %}

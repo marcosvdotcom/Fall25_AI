@@ -29,6 +29,9 @@ These are specifically academic focused AI tools.
 
 - [Stanford's STORM](https://storm.genie.stanford.edu/) - Stanford's STORM (Synthesis of Topic Outlines through Retrieval and Multi-Perspective Question Asking) is a free AI research tool developed at Stanford University that generates comprehensive, Wikipedia-like articles on a given topic, complete with citations from reliable online sources.
 
+## AI and Open Education
+
+- [Dave Wiley's Generative Textbooks](https://generativetextbooks.org/login) - "Interactive textbooks generated in real-time, just for you. No-code tools so every instructor can author AI-powered open textbooks. Free and open source, with support for open licensing and attribution."
 
 ## AI Ethics and Risks
 
