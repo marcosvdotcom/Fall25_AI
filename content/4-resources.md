@@ -33,6 +33,8 @@ These are specifically academic focused AI tools.
 
 - [Dave Wiley's Generative Textbooks](https://generativetextbooks.org/login) - "Interactive textbooks generated in real-time, just for you. No-code tools so every instructor can author AI-powered open textbooks. Free and open source, with support for open licensing and attribution."
 
+- [MIT Open Learning Papers](https://openlearning.mit.edu/news/new-papers-explore-challenges-and-opportunities-ai-open-education) - "MIT Open Learning announces the publication of nine rapid response papers — written by researchers and practitioners across the world — that examine the challenges and opportunities artificial intelligence (AI) presents for open education."
+
 ## AI Ethics and Risks
 
 - [AI Is Dangerous, but Not for the Reasons You Think](https://www.youtube.com/watch?v=eXdVDhOGqoE)
