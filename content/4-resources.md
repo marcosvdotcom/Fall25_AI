@@ -2,7 +2,6 @@
 title: Additional Links & Resources
 nav: Resources
 ---
-
 Here are some additional resources to check out:
 
 ## UIdaho AI 
