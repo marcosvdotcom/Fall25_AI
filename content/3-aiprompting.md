@@ -19,10 +19,9 @@ You'll need:
 
 - an active UIdaho library account (all students, staff and faculty have this!)
 
-- to visit [PRIMO Research Assistant](https://alliance-uidaho.primo.exlibrisgroup.com/discovery/researchAssistant?vid=01ALLIANCE_UID%3AUID)
+- to visit [PRIMO Research Assistant](https://alliance-uidaho.primo.exlibrisgroup.com/discovery/researchAssistant?vid=01ALLIANCE_UID%3AUID), just look for the "..." at the top of your library search screen, then look for Primo Research Assistant.
 
-Short gif video of getting started with PRIMO
- _Make a brief gif video of this if you can so you can show how to get there_
+{% include figure.html img="https://marcosvdotcom.github.io/Fall25_AI/images/primo.gif" alt="short gif demonstrating how to find Primo Research Assistant, at the top of most library website pages" caption="How to find Primo Research Assistant" width="75%" %}
 
 ## Prompting practice
 
