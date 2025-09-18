@@ -28,6 +28,8 @@ These are specifically academic focused AI tools.
 
 - [Open Alex](https://openalex.org/) - AI powered global research catalog.
 
+- [Stanford's STORM](https://storm.genie.stanford.edu/) - Stanford's STORM (Synthesis of Topic Outlines through Retrieval and Multi-Perspective Question Asking) is a free AI research tool developed at Stanford University that generates comprehensive, Wikipedia-like articles on a given topic, complete with citations from reliable online sources.
+
 
 ## AI Ethics and Risks
 
