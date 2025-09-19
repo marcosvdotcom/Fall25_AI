@@ -15,6 +15,8 @@ Session goals:
 - Orient and familiarize you with some specific AI tools for academic use
 - Leave you with links to explore to learn more, and ideas for where to get more help as needed
 
+{% include alert.html text="Are you doing this workshop for a class? Make sure to fill out the google form with your answers! [Right click here and open in a new tab!](https://docs.google.com/forms/d/e/1FAIpQLSdBMLzqcvkQB8G4jp9GGQr9bfsm9TDED0K5in6eh6Cp7vRQyg/viewform?usp=sharing&ouid=112866992831532553930)" align="center" color="success" %}
+
 {% include toc.html %}
 
 ------

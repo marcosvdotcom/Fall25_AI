@@ -8,6 +8,8 @@ AI prompting is the science and possibly art of giving AI a prompt or question t
 
 Because AI's work off of a probability model, the information they receive in the question or prompt has a huge impact on the output they create. Prompts open can open unexpected doors, both good and bad, in how you interact with these tools.
 
+{% include alert.html text="Are you doing this workshop for a class? Make sure to fill out the google form with your answers! [Right click here and open in a new tab!](https://docs.google.com/forms/d/e/1FAIpQLSdBMLzqcvkQB8G4jp9GGQr9bfsm9TDED0K5in6eh6Cp7vRQyg/viewform?usp=sharing&ouid=112866992831532553930)" align="center" color="success" %}
+
 ## AI Prompting exercise
 
 This activity has the goals of:
